@@ -1,0 +1,23 @@
+[
+  {
+    "product_name": "Vivo X60",
+    "product_pric": "35000",
+    "product_image": "https://st1.bgr.in/wp-content/uploads/2021/03/vivo-x60-2.jpg",
+    "product_description": "",
+    "product_rating": ""
+  },
+  {
+    "product_name": "OnePlus 9",
+    "product_price": "50000",
+    "product_image": "https://www.gizmochina.com/wp-content/uploads/2020/12/oneplus9-1.jpg",
+    "product_description": "",
+    "product_rating": ""
+  },
+  {
+    "product_name": "IPhone 12 pro",
+    "product_price": "55000",
+    "product_image": "https://sc04.alicdn.com/kf/H06604cb8544a4c83913f483d6bb477a31.jpg",
+    "product_description": "",
+    "product_rating": ""
+  }
+]
