@@ -2,6 +2,7 @@ import express from "express";
 import { MongoClient } from "mongodb";
 import { ObjectId } from "mongodb";
 import dotenv from 'dotenv';
+import cors from "cors";
 
 // const products =
 
@@ -11,6 +12,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT;
 
+app.use(cors());
 app.use(express.json());
 
 const MONGO_URL = process.env.MONGO_URL;
